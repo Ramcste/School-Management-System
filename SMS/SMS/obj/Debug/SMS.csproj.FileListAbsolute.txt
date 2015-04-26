@@ -1,0 +1,365 @@
+C:\Users\NewBil\AppData\Local\Temporary Projects\SMS\bin\Debug\SMS.exe.config
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.exe.config
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.exe
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.pdb
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.HomeAdmin.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.HomeWindow.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.LogInPage.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.mainWindow.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.exe
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.pdb
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.AllPerson.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Achievement.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Notices.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Progress.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Result.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Subject.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Vision.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Users.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreateUser.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Students.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Teachers.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreatePerson.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreateStudent.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreateTeacher.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Classes.resources
+D:\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.EditStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.exe.config
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\bin\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Achievement.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.AllPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Classes.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreatePerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreateStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreateTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.CreateUser.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.EditPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.EditStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.HomeAdmin.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.HomeWindow.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.LogInPage.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.mainWindow.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Notices.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Progress.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Result.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Students.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Subject.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Teachers.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Users.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.Vision.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+F:\Rashel\Workshop\Visual_Studio_Projects\SMS\SMS\obj\Debug\SMS.EditTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\bin\Debug\SMS.exe.config
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\bin\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\bin\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\bin\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\bin\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Achievement.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.AllPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Classes.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.CreatePerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.CreateStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.CreateTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.CreateUser.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.EditPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.EditStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.EditTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.HomeAdmin.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.HomeWindow.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.LogInPage.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.mainWindow.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Notices.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Progress.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Result.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Students.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Subject.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Teachers.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Users.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.Vision.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS\SMS\obj\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Achievement.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.AllPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Classes.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.CreatePerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.CreateStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.CreateTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.CreateUser.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.EditPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.EditStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.EditTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.HomeAdmin.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.LogInPage.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.mainWindow.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Notices.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Progress.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Result.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.lblStatus.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Subject.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Teachers.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Users.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Vision.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.Properties.Resources.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\bin\Debug\SMS.exe.config
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\bin\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\bin\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\bin\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\bin\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2\SMS\obj\Debug\SMS.EditClass.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.exe.config
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AboutUs.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Achievement.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AddResult.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AdminSettings.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AllPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Classes.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.CreatePerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.CreateStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.CreateTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditClass.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditPerson.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditStudent.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditTeacher.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Event.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.HomeAdmin.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.LogInPage.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.mainWindow.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Notices.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Progress.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Properties.Resources.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Result.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.lblStatus.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Subject.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Teachers.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.UserLog.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Users.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Vision.resources
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.exe.manifest
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.application
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.exe
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.pdb
+F:\Rashel\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.exe.config
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.exe
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.pdb
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.exe.manifest
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.application
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.exe
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\bin\Debug\SMS.pdb
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AboutUs.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Achievement.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AddResult.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AdminSettings.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.AllPerson.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Classes.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.CreatePerson.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.CreateStudent.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.CreateTeacher.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditClass.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditPerson.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditStudent.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.EditTeacher.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Event.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.HomeAdmin.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.LogInPage.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.mainWindow.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Notices.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Progress.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Result.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.lblStatus.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Subject.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Teachers.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.UserLog.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Users.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.Vision.resources
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.exe.manifest
+D:\Workshop\Visual_Studio_Projects\Test\SMS_2_Edit\SMS\obj\Debug\SMS.application
+F:\C#\Project\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe.config
+F:\C#\Project\Project_SMS\SMS_2\SMS\obj\Debug\SMS.exe
+F:\C#\Project\Project_SMS\SMS_2\SMS\obj\Debug\SMS.pdb
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe.config
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.exe
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.pdb
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe.manifest
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\bin\Debug\SMS.application
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\bin\Debug\SMS.pdb
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AboutUs.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Achievement.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AddResult.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AdminSettings.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AllPerson.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Classes.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.CreatePerson.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.CreateStudent.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.CreateTeacher.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditClass.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditPerson.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditStudent.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditTeacher.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Event.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.HomeAdmin.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.LogInPage.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.mainWindow.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Notices.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Progress.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Result.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.lblStatus.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Subject.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Teachers.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.UserLog.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Users.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Vision.resources
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.exe.manifest
+C:\Users\Roni\Desktop\Project_SMS\SMS_2\SMS\obj\Debug\SMS.application
+E:\WPF Examples\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe.config
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.exe
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.pdb
+E:\WPF Examples\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe.manifest
+E:\WPF Examples\Project_SMS\SMS_2\SMS\bin\Debug\SMS.application
+E:\WPF Examples\Project_SMS\SMS_2\SMS\bin\Debug\SMS.exe
+E:\WPF Examples\Project_SMS\SMS_2\SMS\bin\Debug\SMS.pdb
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AboutUs.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Achievement.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AddResult.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AdminSettings.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.AllPerson.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Classes.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.CreatePerson.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.CreateStudent.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.CreateTeacher.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditClass.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditPerson.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditStudent.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.EditTeacher.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Event.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.HomeAdmin.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.LogInPage.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.mainWindow.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Notices.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Progress.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Result.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.lblStatus.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Subject.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Teachers.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.UserLog.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Users.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.Vision.resources
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.exe.manifest
+E:\WPF Examples\Project_SMS\SMS_2\SMS\obj\Debug\SMS.application
+F:\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe.config
+F:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.exe
+F:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.pdb
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe.config
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.exe
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.pdb
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe.manifest
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.application
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.pdb
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AboutUs.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Achievement.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AddResult.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AdminSettings.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AllPerson.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Classes.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.CreatePerson.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.CreateStudent.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.CreateTeacher.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditClass.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditPerson.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditStudent.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditTeacher.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Event.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.HomeAdmin.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.LogInPage.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.mainWindow.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Notices.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Progress.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Result.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.lblStatus.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Subject.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Teachers.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.UserLog.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Users.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Vision.resources
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.exe.manifest
+E:\WPF Collection\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.application
+E:\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe.config
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.exe
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.pdb
+E:\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe.manifest
+E:\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.application
+E:\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.exe
+E:\WPF Examples\Project_SMS\SMS\SMS\bin\Debug\SMS.pdb
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AboutUs.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Achievement.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AddResult.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AdminSettings.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.AllPerson.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Classes.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.CreatePerson.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.CreateStudent.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.CreateTeacher.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditClass.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditPerson.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditStudent.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.EditTeacher.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Event.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.HomeAdmin.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.LogInPage.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.mainWindow.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Notices.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Progress.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Result.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.lblStatus.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Subject.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Teachers.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.UserLog.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Users.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.Vision.resources
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.exe.manifest
+E:\WPF Examples\Project_SMS\SMS\SMS\obj\Debug\SMS.application
